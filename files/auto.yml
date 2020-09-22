@@ -146,7 +146,7 @@ proxy-groups:
 proxy-providers:
   au:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=AU"
+    url: "https://zll.us/clash/proxies?c=AU"
     interval: 3600
     path: ./provider-au.yaml
     health-check:
@@ -155,7 +155,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   cn:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=CN,HK,TW"
+    url: "https://zll.us/clash/proxies?c=CN,HK,TW"
     interval: 3600
     path: ./provider-cn.yaml
     health-check:
@@ -164,7 +164,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   us:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=US"
+    url: "https://zll.us/clash/proxies?c=US"
     interval: 3600
     path: ./provider-us.yaml
     health-check:
@@ -173,7 +173,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   ca:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=CA"
+    url: "https://zll.us/clash/proxies?c=CA"
     interval: 3600
     path: ./provider-ca.yaml
     health-check:
@@ -182,7 +182,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   jp:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=JP"
+    url: "https://zll.us/clash/proxies?c=JP"
     interval: 3600
     path: ./provider-jp.yaml
     health-check:
@@ -191,7 +191,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   sg:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=SG"
+    url: "https://zll.us/clash/proxies?c=SG"
     interval: 3600
     path: ./provider-sg.yaml
     health-check:
@@ -200,7 +200,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   ru:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=RU"
+    url: "https://zll.us/clash/proxies?c=RU"
     interval: 3600
     path: ./provider-ru.yaml
     health-check:
@@ -209,7 +209,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   ch:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=CH"
+    url: "https://zll.us/clash/proxies?c=CH"
     interval: 3600
     path: ./provider-ch.yaml
     health-check:
@@ -218,7 +218,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   de:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=DE"
+    url: "https://zll.us/clash/proxies?c=DE"
     interval: 3600
     path: ./provider-de.yaml
     health-check:
@@ -227,7 +227,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   fr:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=FR"
+    url: "https://zll.us/clash/proxies?c=FR"
     interval: 3600
     path: ./provider-fr.yaml
     health-check:
@@ -236,7 +236,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   gb:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=GB"
+    url: "https://zll.us/clash/proxies?c=GB"
     interval: 3600
     path: ./provider-gb.yaml
     health-check:
@@ -245,7 +245,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   nl:
     type: http
-    url: "https://freenode.cf/clash/proxies?c=NL"
+    url: "https://zll.us/clash/proxies?c=NL"
     interval: 3600
     path: ./provider-nl.yaml
     health-check:
@@ -254,7 +254,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   others:
     type: http
-    url: "https://freenode.cf/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
+    url: "https://zll.us/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
     interval: 3600
     path: ./provider-others.yaml
     health-check:
@@ -263,7 +263,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   all:
     type: http
-    url: "https://freenode.cf/clash/proxies"
+    url: "https://zll.us/clash/proxies"
     interval: 3600
     path: ./provider.yaml
     health-check:
