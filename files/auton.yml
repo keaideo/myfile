@@ -146,126 +146,126 @@ proxy-groups:
 proxy-providers:
   au:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=AU"
+    url: "https://pp.xbin.xyz/clash/proxies?c=AU"
     interval: 3600
-    path: ./provider-au.yml
+    path: ./provider-au.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   cn:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=CN,HK,TW"
+    url: "https://pp.xbin.xyz/clash/proxies?c=CN,HK,TW"
     interval: 3600
-    path: ./provider-cn.yml
+    path: ./provider-cn.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   us:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=US"
+    url: "https://pp.xbin.xyz/clash/proxies?c=US"
     interval: 3600
-    path: ./provider-us.yml
+    path: ./provider-us.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   ca:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=CA"
+    url: "https://pp.xbin.xyz/clash/proxies?c=CA"
     interval: 3600
-    path: ./provider-ca.yml
+    path: ./provider-ca.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   jp:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=JP"
+    url: "https://pp.xbin.xyz/clash/proxies?c=JP"
     interval: 3600
-    path: ./provider-jp.yml
+    path: ./provider-jp.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   sg:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=SG"
+    url: "https://pp.xbin.xyz/clash/proxies?c=SG"
     interval: 3600
-    path: ./provider-sg.yml
+    path: ./provider-sg.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   ru:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=RU"
+    url: "https://pp.xbin.xyz/clash/proxies?c=RU"
     interval: 3600
-    path: ./provider-ru.yml
+    path: ./provider-ru.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   ch:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=CH"
+    url: "https://pp.xbin.xyz/clash/proxies?c=CH"
     interval: 3600
-    path: ./provider-ch.yml
+    path: ./provider-ch.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   de:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=DE"
+    url: "https://pp.xbin.xyz/clash/proxies?c=DE"
     interval: 3600
-    path: ./provider-de.yml
+    path: ./provider-de.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   fr:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=FR"
+    url: "https://pp.xbin.xyz/clash/proxies?c=FR"
     interval: 3600
-    path: ./provider-fr.yml
+    path: ./provider-fr.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   gb:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=GB"
+    url: "https://pp.xbin.xyz/clash/proxies?c=GB"
     interval: 3600
-    path: ./provider-gb.yml
+    path: ./provider-gb.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   nl:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?c=NL"
+    url: "https://pp.xbin.xyz/clash/proxies?c=NL"
     interval: 3600
-    path: ./provider-nl.yml
+    path: ./provider-nl.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   others:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
+    url: "https://pp.xbin.xyz/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
     interval: 3600
-    path: ./provider-others.yml
+    path: ./provider-others.yaml
     health-check:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
   all:
     type: http
-    url: "https://freess.zqwnan.tk/clash/proxies"
+    url: "https://pp.xbin.xyz/clash/proxies"
     interval: 3600
-    path: ./provider.yml
+    path: ./provider.yaml
     health-check:
       enable: true
       interval: 600
