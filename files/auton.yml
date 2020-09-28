@@ -148,7 +148,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=AU"
     interval: 3600
-    path: ./provider-au.yaml
+    path: ./provider-au.yml
     health-check:
       enable: true
       interval: 600
@@ -157,7 +157,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=CN,HK,TW"
     interval: 3600
-    path: ./provider-cn.yaml
+    path: ./provider-cn.yml
     health-check:
       enable: true
       interval: 600
@@ -166,7 +166,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=US"
     interval: 3600
-    path: ./provider-us.yaml
+    path: ./provider-us.yml
     health-check:
       enable: true
       interval: 600
@@ -175,7 +175,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=CA"
     interval: 3600
-    path: ./provider-ca.yaml
+    path: ./provider-ca.yml
     health-check:
       enable: true
       interval: 600
@@ -184,7 +184,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=JP"
     interval: 3600
-    path: ./provider-jp.yaml
+    path: ./provider-jp.yml
     health-check:
       enable: true
       interval: 600
@@ -193,7 +193,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=SG"
     interval: 3600
-    path: ./provider-sg.yaml
+    path: ./provider-sg.yml
     health-check:
       enable: true
       interval: 600
@@ -202,7 +202,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=RU"
     interval: 3600
-    path: ./provider-ru.yaml
+    path: ./provider-ru.yml
     health-check:
       enable: true
       interval: 600
@@ -211,7 +211,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=CH"
     interval: 3600
-    path: ./provider-ch.yaml
+    path: ./provider-ch.yml
     health-check:
       enable: true
       interval: 600
@@ -220,7 +220,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=DE"
     interval: 3600
-    path: ./provider-de.yaml
+    path: ./provider-de.yml
     health-check:
       enable: true
       interval: 600
@@ -229,7 +229,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=FR"
     interval: 3600
-    path: ./provider-fr.yaml
+    path: ./provider-fr.yml
     health-check:
       enable: true
       interval: 600
@@ -238,7 +238,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=GB"
     interval: 3600
-    path: ./provider-gb.yaml
+    path: ./provider-gb.yml
     health-check:
       enable: true
       interval: 600
@@ -247,7 +247,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?c=NL"
     interval: 3600
-    path: ./provider-nl.yaml
+    path: ./provider-nl.yml
     health-check:
       enable: true
       interval: 600
@@ -256,7 +256,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
     interval: 3600
-    path: ./provider-others.yaml
+    path: ./provider-others.yml
     health-check:
       enable: true
       interval: 600
@@ -265,7 +265,7 @@ proxy-providers:
     type: http
     url: "https://pp.xbin.xyz/clash/proxies"
     interval: 3600
-    path: ./provider.yaml
+    path: ./provider.yml
     health-check:
       enable: true
       interval: 600
