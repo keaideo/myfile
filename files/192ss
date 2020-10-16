@@ -1,0 +1,130 @@
+proxies:
+  - {name: ðŸ‡¦ðŸ‡º +AU1, server: 185.167.116.148, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡¦ðŸ‡º +AU2, server: 185.167.116.145, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt}
+  - {name: ðŸ‡¦ðŸ‡º +AU3, server: 185.167.116.146, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
+  - {name: ðŸ‡¦ðŸ‡º +AU4, server: 185.167.116.145, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡¦ðŸ‡º +AU5, server: 185.167.116.146, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡¦ðŸ‡º +AU6, server: 185.167.116.147, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
+  - {name: ðŸ‡¦ðŸ‡º +AU7, server: 185.167.116.91, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡¦ðŸ‡º +AU8, server: 185.167.116.147, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
+  - {name: ðŸ‡¦ðŸ‡º +AU9, server: 185.167.116.147, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡¦ðŸ‡º +AU10, server: 185.167.116.91, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
+  - {name: ðŸ‡¦ðŸ‡º +AU11, server: 185.167.116.145, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
+  - {name: ðŸ‡¦ðŸ‡º +AU12, server: 185.167.116.148, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
+  - {name: +BG1, server: 213.183.60.59, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: +BG2, server: 213.183.60.59, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
+  - {name: +BG3, server: 213.183.60.59, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8}
+  - {name: +CA1, server: 142.44.133.196, port: 18888, type: ss, cipher: aes-256-cfb, password: c97fce048}
+  - {name: +CH1, server: 45.12.206.156, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq}
+  - {name: +CH2, server: 45.134.17.165, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: +CH3, server: 193.38.137.174, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: +CH4, server: 45.12.206.156, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: +CH5, server: 193.38.137.226, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: +CH6, server: 193.38.137.174, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: +CH5 2, server: 45.12.206.89, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: +CH6 2, server: 45.134.17.165, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: +CH7, server: 193.38.137.226, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: +CH8, server: 45.12.206.156, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: +CH9, server: 45.12.206.89, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: ðŸ‡©ðŸ‡ª +DE1, server: 193.108.118.140, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE2, server: 172.104.149.56, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: ðŸ‡©ðŸ‡ª +DE3, server: 45.128.153.60, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL}
+  - {name: ðŸ‡©ðŸ‡ª +DE4, server: 45.128.153.77, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: ðŸ‡©ðŸ‡ª +DE5, server: 45.128.153.78, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL}
+  - {name: ðŸ‡©ðŸ‡ª +DE6, server: 193.108.118.175, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE7, server: 193.108.118.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE8, server: 193.108.118.131, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE9, server: 193.108.118.126, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE10, server: 45.128.153.78, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: ðŸ‡©ðŸ‡ª +DE11, server: 193.108.118.141, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE12, server: 193.176.86.190, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE13, server: 193.108.118.103, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE14, server: 45.128.153.77, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL}
+  - {name: ðŸ‡©ðŸ‡ª +DE15, server: 193.108.118.221, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE16, server: 5.183.179.108, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: ðŸ‡©ðŸ‡ª +DE17, server: 193.108.118.12, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡©ðŸ‡ª +DE18, server: 217.138.194.246, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR1, server: 51.195.62.218, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR2, server: 51.89.21.79, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR3, server: 51.195.63.224, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR4, server: 51.89.43.180, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR5, server: 51.89.21.82, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR6, server: 95.179.210.148, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
+  - {name: ðŸ‡«ðŸ‡· +FR7, server: 51.89.21.77, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR8, server: 51.89.21.81, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR9, server: 51.89.99.52, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR10, server: 51.195.62.220, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR11, server: 51.89.99.59, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR12, server: 51.89.43.193, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR13, server: 51.89.99.184, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR14, server: 51.89.21.83, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR15, server: 51.89.43.196, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR16, server: 51.195.62.219, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡«ðŸ‡· +FR17, server: 51.195.62.222, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡¬ðŸ‡§ +UK1, server: 185.193.36.137, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡¬ðŸ‡§ +UK2, server: 45.90.140.104, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ}
+  - {name: ðŸ‡¬ðŸ‡§ +UK3, server: 88.150.241.7, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡¬ðŸ‡§ +UK4, server: 185.44.78.49, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡¬ðŸ‡§ +UK5, server: 212.84.169.72, port: 8097, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: ðŸ‡¬ðŸ‡§ +UK6, server: 185.44.76.186, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: ðŸ‡¬ðŸ‡§ +UK7, server: 185.44.76.188, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: ðŸ‡¬ðŸ‡§ +UK8, server: 217.146.82.83, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: ðŸ‡¬ðŸ‡§ +UK9, server: 217.138.195.138, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ðŸ‡¯ðŸ‡µ +JP1, server: 45.87.213.23, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: ðŸ‡¯ðŸ‡µ +JP2, server: 82.102.28.125, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: ðŸ‡¯ðŸ‡µ +JP3, server: 45.87.213.21, port: 34762, type: ss, cipher: aes-256-gcm, password: yxGY7A5MczQYg6UqSFx9u78V}
+  - {name: ðŸ‡³ðŸ‡± +NL1, server: 185.224.250.105, port: 9058, type: ss, cipher: aes-256-cfb, password: dML2sfhbVwvtfNPe}
+  - {name: ðŸ‡³ðŸ‡± +NL2, server: 185.246.155.251, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
+  - {name: ðŸ‡³ðŸ‡± +NL3, server: 185.246.155.173, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
+  - {name: ðŸ‡³ðŸ‡± +NL4, server: 185.246.155.185, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX}
+  - {name: ðŸ‡³ðŸ‡± +NL5, server: 185.246.155.241, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z}
+  - {name: ðŸ‡³ðŸ‡± +NL6, server: 185.246.155.249, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: ðŸ‡³ðŸ‡± +NL7, server: 185.246.155.186, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c}
+  - {name: ðŸ‡³ðŸ‡± +NL8, server: 185.246.155.230, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA}
+  - {name: ðŸ‡³ðŸ‡± +NL9, server: 185.246.155.251, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: ðŸ‡³ðŸ‡± +NL10, server: 185.246.155.249, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z}
+  - {name: ðŸ‡³ðŸ‡± +NL11, server: 185.246.155.173, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY}
+  - {name: ðŸ‡³ðŸ‡± +NL12, server: 185.246.155.185, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL13, server: 185.246.155.241, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL14, server: 185.246.155.230, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL}
+  - {name: ðŸ‡³ðŸ‡± +NL15, server: 185.246.155.186, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY}
+  - {name: ðŸ‡³ðŸ‡± +NL16, server: 185.224.250.112, port: 9058, type: ss, cipher: aes-256-cfb, password: dML2sfhbVwvtfNPe}
+  - {name: ðŸ‡³ðŸ‡± +NL17, server: 185.246.155.244, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z}
+  - {name: ðŸ‡³ðŸ‡± +NL18, server: 185.246.155.239, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: ðŸ‡³ðŸ‡± +NL19, server: 185.246.155.251, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL20, server: 185.246.155.239, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL21, server: 185.246.155.237, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: ðŸ‡³ðŸ‡± +NL22, server: 185.246.155.250, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL23, server: 185.246.155.244, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL24, server: 185.246.155.247, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z}
+  - {name: ðŸ‡³ðŸ‡± +NL25, server: 185.246.155.250, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU}
+  - {name: ðŸ‡³ðŸ‡± +NL26, server: 185.246.155.187, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU}
+  - {name: ðŸ‡³ðŸ‡± +NL27, server: 185.246.155.237, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL28, server: 185.246.155.247, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL29, server: 185.246.155.174, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY}
+  - {name: ðŸ‡³ðŸ‡± +NL30, server: 185.246.155.241, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU}
+  - {name: ðŸ‡³ðŸ‡± +NL31, server: 185.246.155.249, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: ðŸ‡³ðŸ‡± +NL32, server: 185.224.250.106, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn}
+  - {name: ðŸ‡³ðŸ‡± +NL33, server: 185.246.155.249, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa}
+  - {name: ðŸ‡³ðŸ‡± +NL34, server: 185.224.249.97, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y}
+  - {name: ðŸ‡·ðŸ‡´ +RO1, server: 62.216.74.5, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: ðŸ‡¸ðŸ‡¬ +SG1, server: 103.114.163.13, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX}
+  - {name: ðŸ‡¨ðŸ‡³ +TW1, server: 2.58.242.43, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: ðŸ‡ºðŸ‡² +US1, server: 45.82.255.176, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡ºðŸ‡² +US2, server: 45.82.255.178, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX}
+  - {name: ðŸ‡ºðŸ‡² +US3, server: 45.82.255.217, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: ðŸ‡ºðŸ‡² +US4, server: 2.56.175.240, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: ðŸ‡ºðŸ‡² +US5, server: 45.82.255.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡ºðŸ‡² +US6, server: 213.59.119.7, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: ðŸ‡ºðŸ‡² +US7, server: 47.242.24.69, port: 17142, type: ss, cipher: aes-256-gcm, password: 0yU2FMYFnq}
+  - {name: ðŸ‡ºðŸ‡² +US8, server: 45.82.255.178, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡ºðŸ‡² +US9, server: 213.59.119.2, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: ðŸ‡ºðŸ‡² +US10, server: 213.59.119.2, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: ðŸ‡ºðŸ‡² +US11, server: 45.82.255.179, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: ðŸ‡ºðŸ‡² +US12, server: 45.82.255.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: ðŸ‡ºðŸ‡² +US13, server: 213.59.119.7, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: ðŸ‡ºðŸ‡² +US14, server: 45.82.255.180, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡ºðŸ‡² +US15, server: 192.145.37.68, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: ðŸ‡ºðŸ‡² +US16, server: 45.82.255.180, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX}
+  - {name: ðŸ‡ºðŸ‡² +US17, server: 45.82.255.178, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: ðŸ‡«ðŸ‡· +FR18, server: 199.247.10.100, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
