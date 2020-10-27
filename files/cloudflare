@@ -1,5 +1,4 @@
-proxies:                                                                                                                                                                                                  
-  - {name: fr, server: fr.cn-cloudflare.com, port: 443, type: http, tls: true, skip-cert-verify: false}           
+proxies:                                                                                                                                                                                                             
   - {name: usa, server: usa.cn-cloudflare.com, port: 443, type: http, tls: true, skip-cert-verify: false}      
   - {name: jp, server: jp.cn-cloudflare.com, port: 443, type: http, tls: true, skip-cert-verify: false}
   - {name: sg1, server: sg3.cn-cloudflare.com, port: 443, type: http, tls: true, skip-cert-verify: false}            
