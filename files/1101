@@ -23,7 +23,4 @@ proxies:
   - {name: 🇯🇵 日本节点更新https://bit.ly/3h18eE7, server: milkgogo.ga, port: 443, type: trojan, password: 8244922f-9937-46ba-b9fa-17708e376220, sni: milkgogo.ga, skip-cert-verify: false}
   - {name: 🇸🇬 kr节点更新请订阅我的youtube频道https://bit.ly/3h18eE7, server: trotro.ml, port: 443, type: trojan, password: f6efe9df-195d-4202-b535-34d717bf9c4e, sni: trotro.ml, skip-cert-verify: false}
   - {name: 🇸🇬 kr节点更新https://bit.ly/3h18eE7, server: trotro.ml, port: 443, type: trojan, password: f6efe9df-195d-4202-b535-34d717bf9c4e, sni: trotro.ml, skip-cert-verify: false}
-  - {name: 🇸🇬 b 6节点更新请订阅我的youtube频道https://bit.ly/3h18eE7, server: www.digitalocean.com, port: 443, type: vmess, uuid: 56b37d6f-aaa8-eec9-9035-5a2798598b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /nnpf, ws-headers: {Host: blog.v2ray-agent.com}}
-  - {name: 🇸🇬 us tg节点更新https://bit.ly/3h18eE7, server: xibun.gq, port: 443, type: trojan, password: 5f83fa6c-db2d-4cca-ba2b-5464085eb309, sni: xibun.gq, skip-cert-verify: false}
-  - {name: 🇺🇲 google us-tk, server: trump.fuck.gfw.cloudflare2020.tk, port: 443, type: trojan, password: 9dedf4ea-bea6-86da-e5b3-8bb53d423738, sni: trump.fuck.gfw.cloudflare2020.tk, skip-cert-verify: false}
-  - {name: "b", server: fanqiangdang.ml, port: 443, type: vmess, uuid: ceaf0b3f-cc25-4e27-a311-e67a3da49e3c, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: fanqiang, ws-headers: {Host: fanqiangdang.ml}}
+ 
