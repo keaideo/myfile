@@ -1,2 +1,2 @@
 proxies:
-  - {name: SS1, server: 172.104.149.56, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: SS_01, server: 185.224.249.97, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y}
